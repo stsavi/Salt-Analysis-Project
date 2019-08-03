@@ -1,5 +1,6 @@
-#include <iostream.h>
-#include <conio.h>
+#include <iostream>
+#include <conio>
+using namespace std;
 class salt
 {
  int anion,cation,group;
